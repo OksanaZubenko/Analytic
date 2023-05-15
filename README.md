@@ -7,7 +7,11 @@
 Навыки и технологии
 
 Инструменты анализа данных: SQL, Excel:
+
 Языки программирования и библиотеки: Python, Pandas, math
+
 Системы управления базами данных: MySQL, PostgreSQL
+
 Средства визуализации данных: PowerBi, Matplotlib, seaborn
+
 Инструменты для машинного обучения: scikit-learn, TensorFlow
